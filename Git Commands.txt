@@ -1,0 +1,14 @@
+//To Update Code in Github
+git add . ; git commit -m "Git Commit" ; git push origin main;
+
+
+//Download last code from Github
+git pull origin main
+
+
+
+
+
+//Github Account setup for first time Git install
+git config --global user.email "zoit.bd@gmail.com"
+git config --global user.name "ZIT"
