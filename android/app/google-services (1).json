@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "286803816881",
+    "project_id": "gaji-eacee",
+    "storage_bucket": "gaji-eacee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286803816881:android:7f0d4c1de5762f16154d90",
+        "android_client_info": {
+          "package_name": "com.example.mijan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvMA6xXdAqJqV73zDtpYQZhrxOr_8zbts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
